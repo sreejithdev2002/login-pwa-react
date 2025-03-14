@@ -34,8 +34,5 @@
   "display": "fullscreen",
   "scope": "/",
   "start_url": "/",
-  "orientation": "portrait",
-  "launch_handler": {
-    "client_mode": "focus-existing"
-  }
+  "orientation": "portrait"
 }
