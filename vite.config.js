@@ -28,9 +28,9 @@ const manifestForPlugIn = {
     },
     {
       src: '/maskable_icon.png',
-      sizes:'384x384',
+      sizes:'512x512',
       type:'image/png',
-      purpose:'any maskable',
+      purpose:'maskable',
     }
   ],
   theme_color:'#171717',
