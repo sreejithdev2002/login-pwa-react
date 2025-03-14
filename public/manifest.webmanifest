@@ -1,11 +1,13 @@
 {
     "name": "Login PWA",
     "short_name": "LOGINPWA",
-    "description": "A simple login page PWA built with React and Vite",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#ffffff",
+    "lang": "en",
+    "scope": "/",
+    "description": "This is a PWA testing website using React + Vite by SreejithDev2002",
+    "theme_color": "#4e8d0b",
     "icons": [
       {
         "src": "/icons/192.png",
@@ -17,6 +19,7 @@
         "sizes": "512x512",
         "type": "image/png"
       }
-    ]
+    ],
+    "id": "react-pwa-sreejithdev2002",
+    "orientation": "portrait"
   }
-  
